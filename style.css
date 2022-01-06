@@ -97,7 +97,7 @@ p{
 }
 
 .background-1{
-    background-image: url(/images/shapes/shape-6.png);
+    background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
     background-size: 15%;
     padding-top: 100px;
@@ -105,7 +105,7 @@ p{
     
 }
 .background-2{
-    background-image: url(/images/shapes/shape-5.png);
+    background-image: url(images/shapes/shape-5.png);
     background-repeat: no-repeat;
     background-size: 15%;
     padding-top: 100px;
